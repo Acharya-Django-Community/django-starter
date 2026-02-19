@@ -35,6 +35,7 @@ Keyingi qadam esa
 
 Kerakli kutubxonalarni ornatish boladi
 
+
 ```bash
 pip install -r requirements.txt
 ```
