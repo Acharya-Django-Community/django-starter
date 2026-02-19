@@ -58,4 +58,4 @@ Agar hammasi togri bolsa sizda Django Page ochiladi
 
 Quyidagi rasmda ko'rsatilgan natija bo'lsa sizda hammasi togri bajarilgan boladi 
 
-![](https://github.com/Acharya-Django-Community/django-starter/img.png)
+![](https://github.com/Acharya-Django-Community/django-starter/blob/main/img.png)
